@@ -2,6 +2,8 @@
 
 [Marp](https://marp.app/)を使ったサンプルスライド
 
-- `npm install -g @marp-team/marp-cli`
-- `PORT=5000 marp -s .`
-- http://localhost:5000
+## 使い方
+
+1. `npm install -g @marp-team/marp-cli`
+2. `PORT=5000 marp -s .`
+3. http://localhost:5000
